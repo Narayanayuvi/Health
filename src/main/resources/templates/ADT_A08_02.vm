@@ -1,0 +1,5 @@
+MSH|^~\&|ATHENANET|$SendingF^Welltown Memorial Hospital|KPININJA||$messageTime||ADT^A08|34|P|2.3.1||||||||
+EVN|A08|$messageTime||$eveReason|aliebeskind1|
+PID|$SetId||$idNumber^^^^^$SendingF~$employeeId^^^^^$SendingF||$FamilyName^$Name^$middleName^^^^||$dateOfBirth|$gender||2106-3^White|8 CORABEL LN^^NEPENTHE^CA^54904^USA||(408)-355-9426^PRN^PH^^1^920^2523000^^|^^^^^^^^|eng^English|$martialStatus|$Religion|NCC80102A|001-02-0003||^^^^^|N|Alaska|||United Federation of Planets|Y|Earth||N|
+NK1|1|$RelativeFamilyName^$RelativeGivenName^$RelativeMiddleName|$relationship|8 CORABEL LN^^NEPENTHE^CA^54904^USA|(408)-355-9426^PRN^PH^^1^920^2523000^^||C||||||||||||||||||||||||||||||
+PV1|$PatientId|$PatientClass|^^^MOBILE HEALTH TEAM - NEENAH*|$AdmissionType|$preAdmitNum||$docId^$docFamilyName^$docgivenName^$docMiddleName||||||||||1629097654^LIEBESKIND^ANN^MARIE||$visitNumber|||||||||||||||||||||||||$AdmitTime|$dischargeTime|||||||

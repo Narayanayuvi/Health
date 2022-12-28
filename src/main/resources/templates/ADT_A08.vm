@@ -1,0 +1,27 @@
+MSH|^~\&|EPIC|$SendingF^Eren Health Clinics|JEROME||$messageTime|AUTO|ADT^A08||P|2.5.1|||||||||||
+EVN|A08|$messageTime||$eveReason|AUTO^SYSTEM^AUTO^^^^^^BELHE^^^^^|||
+PID|$SetId||$idNumber^^^^^$SendingF~$employeeId^^^^^$SendingF||$FamilyName^$Name^$middleName^^^^||$dateOfBirth|$gender|PINCER^BINTO^^~PINCER^BINTO^S^~DIBLE^BINTO^S^~DIBLE^BINTO^HIGEKU^|White|6839 42ND ST^^SAN JUAN ISLAND^WA^54110^USA^C^^CALUMET|CALUMET|(408)-197-7183^PRN^7^^^920^5880050||English|$martialStatus|$Religion||221-32-4244|||NON-HISPANIC OR LATINO||||||||N|||||||||
+NK1|0222555|$RelativeFamilyName^$RelativeGivenName^$RelativeMiddleName|$relationship|STREET^OTHER STREET^CITY^ST^55566| (222)111-3333| (888)999-0000|||||||ORGANIZATION\r
+PV1|$PatientId|$PatientClass|D.ER^1F^M950^01|$AdmissionType|$preAdmitNum|11B^M011^02|$docId^$docFamilyName^$docgivenName^$docMiddleName|555888^OKNEL^BOB^K^DR^MD|777889^NOTREAL^SAM^T^DR^MD^PHD|ER|D.WT^1A^M010^01|||ER|AMB|02|070615^VOICE^BILL^L|ER|$visitNumber|D||||||||||||||||GDD|WA|NORM|02|O|02|E.IN^02D^M090^01|E.IN^01D^M080^01|$AdmitTime|$dischargeTime|||||5555112333|||666097^DNOTREAL^MANNY^P\r
+PV2|||0112^TESTING|55555^PATIENT IS NORMAL|NONE|||$expAdmit|$expDischarge|1|1|TESTING|555888^NOTREAL^BOB^K^DR^MD||||||||||PROD^003^099|02|ER||NONE|$sigDate|$illdATE|$adjustCode|NONE\r
+DG1|1|ICD-10|$description|||A||||||||||||N
+DG1|2|ICD-10|$description1|||A||||||||||||N
+AL1|$alinfo||^PENICILLIN||PRODUCES HIVES~RASH
+NTE|1||Only certain metals|||
+GT1||0222PL|$GuarantorFamilyName^$GuarantorGivenName^$GuarantorMiddleName||STREET^OTHER STREET^CITY^ST^$zipCode| (444)999-3333| (222)777-5555||||MO|111-33-5555||||NOTREAL GILL N|STREET^OTHER STREET^CITY^ST^99999| (111)222-3333\r
+IN1||022254P|4558PD|BLUE CROSS|STREET^OTHER STREET^CITY^ST^00990|| (333)333-6666||221K|LENIX|||19980515|19990515|||PATIENT01 TEST D||||||||||||||||||02LL|022LP554
+PR1|2234|M11|111^CODE151|COMMON PROCEDURES|||||||$authorId^$famName1^$GivenName1^SecondName1^^Dr.^Md||||||||||||||||
+OBX|1|TX|||$ob1 ||||||F
+OBX|2|TX|||$ob2 |                                                      ||||||F
+OBX|3|TX|||Patient: $Name,  $FamilyName  $middleName.                        DOB: $dateBirth2              MR #: $dNum            ||||||F
+OBX|4|TX|||$ob4    ||||||F
+OBX|5|TX|||$ob5||||||F
+OBX|6|TX|||$ob6         ||||||F
+OBX|7|TX|||$ob7||||||F
+OBX|8|TX|||$ob8 |                                                ||||||F
+OBX|9|TX|||$ob9  ||||||F
+OBX|10|TX|||$ob10 ||||||F
+ACC|$admit|Penetrating Trauma|$location||N|N|
+
+
+

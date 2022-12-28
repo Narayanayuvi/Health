@@ -1,0 +1,7 @@
+MSH|^~\&|EPIC|$SendingF^Welltown Memorial Hospital|KPININJA|WELLTOWN|$messageTime|86639|MDM^T02|30|P|2.5.1
+EVN|T02|$messageTime||$eveReason|$du1^$aim^$aim1^^^^^^SPH^^^^^SHHOS
+PID|$SetId||$idNumber^^^^^$SendingF~$employeeId^^^^^$SendingF||$FamilyName^$Name^$middleName^^^^||$dateOfBirth|$gender|PINCER^BINTO^^~PINCER^BINTO^S^~DIBLE^BINTO^S^~DIBLE^BINTO^HIGEKU^|White|6839 42ND ST^^SAN JUAN ISLAND^WA^54110^USA^C^^CALUMET|CALUMET|(408)-197-7183^PRN^7^^^920^5880050||English|$martialStatus|$Religion||221-32-4244|||NON-HISPANIC OR LATINO||||||||N|||||||||
+PV1|$PatientId|$PatientClass|D.ER^1F^M950^01|$AdmissionType|$preAdmitNum|11B^M011^02|$docId^$docFamilyName^$docgivenName^$docMiddleName|555888^OKNEL^BOB^K^DR^MD|777889^NOTREAL^SAM^T^DR^MD^PHD|ER|D.WT^1A^M010^01|||ER|AMB|02|070615^VOICE^BILL^L|ER|$visitNumber|D||||||||||||||||GDD|WA|NORM|02|O|02|E.IN^02D^M090^01|E.IN^01D^M080^01|$AdmitTime|$dischargeTime|||||5555112333||
+TXA|1|ED Triage No|TX|$AdmitTime|$cd^$aim^$aim1|$AdmitTime||$AdmitTime|$cd^$aim^aim1|||$du|||||$au||$av|||$cd^$aim^$aim1^^^^^^EPIC.SER^^^^^^$AdmitTime
+
+
